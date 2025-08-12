@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather APP</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <div class="weather-container">
+        <header class="app-header">
+
+        <h1>Weather APP</h1>
+
+        <form id="search-form">
+            <input type="text" id="city-input" placeholder="Type the city name..."></input>
+            <button type="submit">Search</button>
+        </form>
+        </header>
+
+        <main id="weather-data" class="hide">
+            <h2><i class="fas fa-map-marker-alt"></i> <span id="city"></span></h2>
+                <p id="temperature"><span id="temp-value"></span><span id="temp-unit">&deg;C</span></p>
+            <div id="description-container">
+                <p id="description"></p>
+                <img id="weather-icon" src="" alt="Condição do tempo">
+            </div>
+            <div id="details-container">
+                 <p id="humidity">
+                <i class="fas fa-tint"></i>
+                <span></span>%
+                </p>
+                <p id="wind">
+                <i class="fas fa-wind"></i>
+                <span></span> km/h
+                </p>
+            </div>
+        </main>
+            </div>
+    
+    <footer class="main-footer">
+    <p>Created by <a href="https://github.com/DrSauce0101" target="_blank">Thiago</a></p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
