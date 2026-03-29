@@ -1,7 +1,7 @@
-## ☀️ Weather App
+## Weather App
 
 Um aplicativo de clima simples e elegante, construído para demonstrar o consumo de APIs externas e a manipulação do DOM em tempo real. O aplicativo permite que o usuário pesquise por uma cidade e veja as informações de clima em um layout dinâmico.
-✨ Funcionalidades
+Funcionalidades
 
     Pesquisa de Clima por Cidade: Obtenha a temperatura, a umidade e a velocidade do vento de qualquer cidade do mundo.
 
@@ -15,7 +15,7 @@ Um aplicativo de clima simples e elegante, construído para demonstrar o consumo
 
     Tratamento de Erros: Mensagens de erro amigáveis para quando a cidade não é encontrada ou há problemas na conexão.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -29,7 +29,7 @@ Um aplicativo de clima simples e elegante, construído para demonstrar o consumo
 
 - Font Awesome: Para os ícones de umidade e vento.
 
-## 🚀 Como Rodar o Projeto
+## Como Rodar o Projeto
 
 Para rodar este projeto localmente, siga os seguintes passos:
 Pré-requisitos
